@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <strig
+#include <string>
 
 using namespace std;
 
